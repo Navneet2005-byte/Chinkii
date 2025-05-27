@@ -88,6 +88,8 @@ export default function VideoGridWithOverlay() {
             src={modalVideo}
             controls
             autoPlay
+            muted
+            playsInline
             style={{
               maxWidth: "90vw",
               maxHeight: "80vh",

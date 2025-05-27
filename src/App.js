@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import Photos from "./pages/Photos";
 import Videos from "./pages/Videos";
 import Farewell from "./pages/Farewell"; // 👈 New import
-
+ 
 export default function App() {
   return (
     <Router>
